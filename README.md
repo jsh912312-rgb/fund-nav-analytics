@@ -242,7 +242,7 @@ excess_return = cumulative_return - kospi_return
 
 #### Cmulative return
 
-![image.png](./images/image%3.png)
+![image.png](./images/image3.png)
 
 #### MDD
 
